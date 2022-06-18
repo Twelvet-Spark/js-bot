@@ -1,0 +1,16 @@
+{
+    "token": "telegramToken",
+    "port": 3000,
+    "ngrok_API_key": "token",
+    "DBname": "usersdb",
+    "DBtableName": "telegram",
+    "DBpassword": "DB password",
+    "commands": ["Проверить посещяемость", "/start", "Конечно", "У меня есть вопросы"],
+    "chapters": [["Глава 1 - Основы (WIP)"], ["Глава 2 - Опасности на пути (WIP)"], ["Глава 3 - Замок и ключ (WIP)"], ["Глава 4 - Глубокая защита (WIP)"], ["Справочник (WIP)"]],
+    "chapterOneEpisodes": [["Часть 1 - Наш мир"], ["Часть 2 - Данные и информация (WIP)"], ["Часть 3 - Кто наши защитники? (WIP)"], ["Часть 4 - Тайные техники защитников (WIP)"], ["К выбору глав"]],
+    "chapterTwoEpisodes": [["chapterTwoEpisodes Not ready"], ["К выбору глав"]],
+    "chapterThreeEpisodes": [["chapterThreeEpisodes Not ready"], ["К выбору глав"]],
+    "chapterFourEpisodes": [["chapterFourEpisodes Not ready"], ["К выбору глав"]],
+    "chapterInfo": [["chapterInfo Not ready"], ["К выбору глав"]],
+    "status": {"unreached": "unreached", "running": "running", "ended": "ended"}
+}
